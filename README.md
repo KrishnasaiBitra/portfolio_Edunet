@@ -113,7 +113,7 @@ The site is fully responsive and adapts to various screen sizes using Bootstrap'
 
 ## 🖼️ Screenshots
 
-![Portfolio Homepage Screenshot](images/logo.png)
+![Portfolio Homepage Screenshot](images/Screenshot%202025-07-16%20140422.png)
 
 ---
 
